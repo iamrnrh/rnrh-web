@@ -1,0 +1,42 @@
+{
+  "commit": "15415cf3f881a5e18dbd7de3b1f447347cf4b77a",
+  "generated": "Mon, 17 Jun 2024 03:03:04 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "a53f6c98d660e0f722f5b2416977b9a7860beacb",
+        "hash": "1582506370",
+        "path": "outstatic/content/featured-works/test-featured-work.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "featured-works",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T02:20:15.528Z",
+      "slug": "test-featured-work",
+      "status": "published",
+      "title": "Test Featured Work"
+    },
+    {
+      "__outstatic": {
+        "commit": "a3dcd5d7dd313e4354d73705fedc87253d64aaba",
+        "hash": "3808533820",
+        "path": "outstatic/content/featured-works/aphanos.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "featured-works",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T02:12:58.959Z",
+      "slug": "aphanos",
+      "status": "published",
+      "title": "Aphanos"
+    }
+  ]
+}
