@@ -11,3 +11,5 @@ publishedAt: '2024-06-17T02:12:58.959Z'
 ---
 
 Branding and frontend development for a new company developing AI/ML medical analysis tools.
+
+![](/images/aphanos-k4Mj.svg)
