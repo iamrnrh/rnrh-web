@@ -1,6 +1,6 @@
 {
-  "commit": "9f22d0dd5496cb4efb63a62788810830b75d9f55",
-  "generated": "2024-06-20T20:20:01.340Z",
+  "commit": "371db594ff417445cd359aa94c75e41ed4dc0ced",
+  "generated": "2024-06-20T20:25:54.042Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "a-third-post",
       "status": "published",
       "title": "A third post"
-    },
-    {
-      "__outstatic": {
-        "commit": "3ec8d1002cd1f2600a75c2a7b6e4f7d7ed8868af",
-        "hash": "694678641",
-        "path": "outstatic/content/featured-work/test-item.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
-      },
-      "collection": "featured-work",
-      "coverImage": "/images/bottle-c5MD.png",
-      "description": "Here is a description",
-      "publishedAt": "2024-06-20T18:06:12.103Z",
-      "slug": "test-item",
-      "status": "published",
-      "title": "Test Item"
     },
     {
       "__outstatic": {
