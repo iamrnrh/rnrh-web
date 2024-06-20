@@ -1,25 +1,7 @@
 {
   "commit": "98124381e50579d7f28a7207671dbe431ab77bcb",
-  "generated": "Thu, 20 Jun 2024 20:07:43 GMT",
+  "generated": "Thu, 20 Jun 2024 20:16:34 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1f356a2de5474abc65191d75929c021430aef0cd",
-        "hash": "1915363375",
-        "path": "outstatic/content/posts/a-third-post.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-20T19:31:26.730Z",
-      "slug": "a-third-post",
-      "status": "published",
-      "title": "A third post"
-    },
     {
       "__outstatic": {
         "commit": "de9ef408331bcc575719c67f4032cf1ddb03c70c",
@@ -55,6 +37,24 @@
       "slug": "another-post",
       "status": "published",
       "title": "Another Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "1f356a2de5474abc65191d75929c021430aef0cd",
+        "hash": "1915363375",
+        "path": "outstatic/content/posts/a-third-post.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-20T19:31:26.730Z",
+      "slug": "a-third-post",
+      "status": "published",
+      "title": "A third post"
     },
     {
       "__outstatic": {
