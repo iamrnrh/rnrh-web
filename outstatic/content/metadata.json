@@ -1,12 +1,12 @@
 {
   "commit": "a68a0673c6b96725461a8d0532d089d461f246da",
-  "generated": "2024-06-20T18:30:39.565Z",
+  "generated": "2024-06-20T18:30:42.945Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "a53f6c98d660e0f722f5b2416977b9a7860beacb",
-        "hash": "1582506370",
-        "path": "outstatic/content/featured-works/test-featured-work.md"
+        "commit": "a3dcd5d7dd313e4354d73705fedc87253d64aaba",
+        "hash": "3808533820",
+        "path": "outstatic/content/featured-works/aphanos.md"
       },
       "author": {
         "name": "",
@@ -15,10 +15,10 @@
       "collection": "featured-works",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-06-17T02:20:15.528Z",
-      "slug": "test-featured-work",
+      "publishedAt": "2024-06-17T02:12:58.959Z",
+      "slug": "aphanos",
       "status": "published",
-      "title": "Test Featured Work"
+      "title": "Aphanos"
     }
   ]
 }
