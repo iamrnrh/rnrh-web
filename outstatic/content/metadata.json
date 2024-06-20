@@ -1,6 +1,24 @@
 {
-  "commit": "c40d5953ec53d73024f0871ae372da36cc29026f",
-  "generated": "2024-06-20T20:25:57.264Z",
+  "commit": "c6017f0314970821121bf801eac5acfdeb22647c",
+  "generated": "2024-06-20T20:27:12.356Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "c6017f0314970821121bf801eac5acfdeb22647c",
+        "hash": "2231497441",
+        "path": "outstatic/content/featured-works/aphanos.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "featured-works",
+      "coverImage": "",
+      "description": "Branding and frontend development for a new company developing AI/ML medical analysis tools.",
+      "publishedAt": "2024-06-20T19:56:17.778Z",
+      "slug": "aphanos",
+      "status": "published",
+      "title": "Aphanos"
+    }
   ]
 }
