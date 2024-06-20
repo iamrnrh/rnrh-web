@@ -1,12 +1,12 @@
 {
-  "commit": "b960f7355fbbf5fa4464c199bf68cd9422415651",
-  "generated": "2024-06-20T18:40:14.577Z",
+  "commit": "fb7163078c0085305f2bfa90f895ca2b5e2e1db5",
+  "generated": "2024-06-20T18:44:09.866Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "b960f7355fbbf5fa4464c199bf68cd9422415651",
-        "hash": "3419038516",
-        "path": "outstatic/content/featured-work/work-test-item.md"
+        "commit": "fb7163078c0085305f2bfa90f895ca2b5e2e1db5",
+        "hash": "2121440729",
+        "path": "outstatic/content/featured-work/test-item.md"
       },
       "author": {
         "name": "",
@@ -16,7 +16,7 @@
       "coverImage": "/images/bottle-c5MD.png",
       "description": "",
       "publishedAt": "2024-06-20T18:06:12.103Z",
-      "slug": "work-test-item",
+      "slug": "test-item",
       "status": "published",
       "title": "Test Item"
     }
