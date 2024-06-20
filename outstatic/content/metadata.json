@@ -1,6 +1,6 @@
 {
-  "commit": "9aa0d175b7d3767c416021e33b3a9b2b6e3049ee",
-  "generated": "2024-06-20T18:48:39.010Z",
+  "commit": "1db35dffde29483c775d161621614e385945bdf0",
+  "generated": "2024-06-20T18:55:11.453Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,9 +40,9 @@
     },
     {
       "__outstatic": {
-        "commit": "9aa0d175b7d3767c416021e33b3a9b2b6e3049ee",
-        "hash": "3421574470",
-        "path": "outstatic/content/posts/test-post.md"
+        "commit": "1db35dffde29483c775d161621614e385945bdf0",
+        "hash": "2039168746",
+        "path": "outstatic/content/posts/test-post-slug.md"
       },
       "author": {
         "name": "",
@@ -52,7 +52,7 @@
       "coverImage": "/images/aphanos-g2NT.jpg",
       "description": "",
       "publishedAt": "2024-06-20T18:18:11.439Z",
-      "slug": "test-post",
+      "slug": "test-post-slug",
       "status": "published",
       "title": "Test Post"
     }
