@@ -1,6 +1,6 @@
 {
-  "commit": "1db35dffde29483c775d161621614e385945bdf0",
-  "generated": "2024-06-20T18:55:11.453Z",
+  "commit": "8593c5bc287ec0d8faf89b36240a9f3f561e9180",
+  "generated": "2024-06-20T20:01:22.875Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,6 +55,24 @@
       "slug": "test-post-slug",
       "status": "published",
       "title": "Test Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "8593c5bc287ec0d8faf89b36240a9f3f561e9180",
+        "hash": "4271736656",
+        "path": "outstatic/content/posts/another-post.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-20T19:31:08.125Z",
+      "slug": "another-post",
+      "status": "published",
+      "title": "Another Post"
     }
   ]
 }
