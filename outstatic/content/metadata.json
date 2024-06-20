@@ -1,6 +1,24 @@
 {
-  "commit": "bd3d794214f27044aa84bfc3c8687a37cadaf551",
-  "generated": "2024-06-20T18:31:03.009Z",
+  "commit": "dbdc0d01679b1268db1405a5eb1198a3b55af287",
+  "generated": "2024-06-20T18:36:41.036Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "dbdc0d01679b1268db1405a5eb1198a3b55af287",
+        "hash": "2121440729",
+        "path": "outstatic/content/featured-work/test-item.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "featured-work",
+      "coverImage": "/images/bottle-c5MD.png",
+      "description": "",
+      "publishedAt": "2024-06-20T18:06:12.103Z",
+      "slug": "test-item",
+      "status": "published",
+      "title": "Test Item"
+    }
   ]
 }
