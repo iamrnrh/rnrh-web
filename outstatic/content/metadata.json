@@ -1,46 +1,28 @@
 {
-  "commit": "d61a7fb42bd43cc1872a9b45b484688955706041",
-  "generated": "2024-06-20T20:01:34.772Z",
+  "commit": "98124381e50579d7f28a7207671dbe431ab77bcb",
+  "generated": "Thu, 20 Jun 2024 20:07:43 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "b960f7355fbbf5fa4464c199bf68cd9422415651",
-        "hash": "3419038516",
-        "path": "outstatic/content/featured-work/work-test-item.md"
+        "commit": "1f356a2de5474abc65191d75929c021430aef0cd",
+        "hash": "1915363375",
+        "path": "outstatic/content/posts/a-third-post.md"
       },
       "author": {
         "name": "",
         "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
       },
-      "collection": "featured-work",
-      "coverImage": "/images/bottle-c5MD.png",
+      "collection": "posts",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2024-06-20T18:06:12.103Z",
-      "slug": "work-test-item",
+      "publishedAt": "2024-06-20T19:31:26.730Z",
+      "slug": "a-third-post",
       "status": "published",
-      "title": "Test Item"
+      "title": "A third post"
     },
     {
       "__outstatic": {
-        "commit": "fb7163078c0085305f2bfa90f895ca2b5e2e1db5",
-        "hash": "694678641",
-        "path": "outstatic/content/featured-work/test-item.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
-      },
-      "collection": "featured-work",
-      "coverImage": "/images/bottle-c5MD.png",
-      "description": "Here is a description",
-      "publishedAt": "2024-06-20T18:06:12.103Z",
-      "slug": "test-item",
-      "status": "published",
-      "title": "Test Item"
-    },
-    {
-      "__outstatic": {
-        "commit": "1db35dffde29483c775d161621614e385945bdf0",
+        "commit": "de9ef408331bcc575719c67f4032cf1ddb03c70c",
         "hash": "2039168746",
         "path": "outstatic/content/posts/test-post-slug.md"
       },
@@ -58,7 +40,7 @@
     },
     {
       "__outstatic": {
-        "commit": "8593c5bc287ec0d8faf89b36240a9f3f561e9180",
+        "commit": "6a25e1560c51336856d1aab16a533b3d51eae31b",
         "hash": "4271736656",
         "path": "outstatic/content/posts/another-post.md"
       },
@@ -76,21 +58,21 @@
     },
     {
       "__outstatic": {
-        "commit": "d61a7fb42bd43cc1872a9b45b484688955706041",
-        "hash": "1915363375",
-        "path": "outstatic/content/posts/a-third-post.md"
+        "commit": "3ec8d1002cd1f2600a75c2a7b6e4f7d7ed8868af",
+        "hash": "694678641",
+        "path": "outstatic/content/featured-work/test-item.md"
       },
       "author": {
         "name": "",
         "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
       },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-20T19:31:26.730Z",
-      "slug": "a-third-post",
+      "collection": "featured-work",
+      "coverImage": "/images/bottle-c5MD.png",
+      "description": "Here is a description",
+      "publishedAt": "2024-06-20T18:06:12.103Z",
+      "slug": "test-item",
       "status": "published",
-      "title": "A third post"
+      "title": "Test Item"
     }
   ]
 }
