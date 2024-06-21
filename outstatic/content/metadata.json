@@ -1,6 +1,6 @@
 {
-  "commit": "7774442deee2c8e90e632951ea60bee92bad54ff",
-  "generated": "2024-06-21T18:02:19.668Z",
+  "commit": "96f43bfe8ca3683a31bd7f2c7e44c1075f6c2410",
+  "generated": "2024-06-21T18:40:06.119Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,6 +38,24 @@
       "slug": "rocks",
       "status": "published",
       "title": "rocks"
+    },
+    {
+      "__outstatic": {
+        "commit": "96f43bfe8ca3683a31bd7f2c7e44c1075f6c2410",
+        "hash": "2952338815",
+        "path": "outstatic/content/feed-items/cd-cover.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "feed-items",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-21T18:06:56.624Z",
+      "slug": "cd-cover",
+      "status": "published",
+      "title": "cd-cover"
     }
   ]
 }
