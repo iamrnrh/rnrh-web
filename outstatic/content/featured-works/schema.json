@@ -1,0 +1,13 @@
+{
+  "title": "featured-works",
+  "type": "object",
+  "properties": {
+    "disciplines": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Disciplines"
+    }
+  }
+}
