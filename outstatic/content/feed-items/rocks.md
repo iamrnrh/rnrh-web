@@ -7,6 +7,7 @@ author:
 slug: 'rocks'
 description: ''
 coverImage: ''
+disciplines: [{"label":"Design","value":"design"}]
 publishedAt: '2024-06-21T17:30:59.471Z'
 ---
 

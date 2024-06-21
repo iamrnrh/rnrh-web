@@ -8,7 +8,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Disciplines",
-      "values": []
+      "values": [
+        {
+          "value": "design",
+          "label": "Design"
+        }
+      ]
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "commit": "96f43bfe8ca3683a31bd7f2c7e44c1075f6c2410",
-  "generated": "2024-06-21T18:40:06.119Z",
+  "commit": "fb8e963e1dedd3a9b0c4e89bafeeac0cd71c49c9",
+  "generated": "2024-06-21T18:54:04.454Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,24 +23,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7774442deee2c8e90e632951ea60bee92bad54ff",
-        "hash": "721665816",
-        "path": "outstatic/content/feed-items/rocks.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
-      },
-      "collection": "feed-items",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-21T17:30:59.471Z",
-      "slug": "rocks",
-      "status": "published",
-      "title": "rocks"
-    },
-    {
-      "__outstatic": {
         "commit": "96f43bfe8ca3683a31bd7f2c7e44c1075f6c2410",
         "hash": "2952338815",
         "path": "outstatic/content/feed-items/cd-cover.md"
@@ -56,6 +38,30 @@
       "slug": "cd-cover",
       "status": "published",
       "title": "cd-cover"
+    },
+    {
+      "__outstatic": {
+        "commit": "fb8e963e1dedd3a9b0c4e89bafeeac0cd71c49c9",
+        "hash": "3777680212",
+        "path": "outstatic/content/feed-items/rocks.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "feed-items",
+      "coverImage": "",
+      "description": "",
+      "disciplines": [
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2024-06-21T17:30:59.471Z",
+      "slug": "rocks",
+      "status": "published",
+      "title": "rocks"
     }
   ]
 }
