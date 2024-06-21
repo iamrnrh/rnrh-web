@@ -12,6 +12,14 @@
         {
           "value": "design",
           "label": "Design"
+        },
+        {
+          "value": "photography",
+          "label": "Photography"
+        },
+        {
+          "value": "glitch",
+          "label": "Glitch"
         }
       ]
     }
