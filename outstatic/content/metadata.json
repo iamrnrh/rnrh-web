@@ -1,6 +1,6 @@
 {
-  "commit": "e51d40abfa3994d4c3cc6768c4efc639361a84fb",
-  "generated": "2024-06-21T17:59:39.180Z",
+  "commit": "7774442deee2c8e90e632951ea60bee92bad54ff",
+  "generated": "2024-06-21T18:02:19.668Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,6 +20,24 @@
       "slug": "aphanos",
       "status": "published",
       "title": "Aphanos"
+    },
+    {
+      "__outstatic": {
+        "commit": "7774442deee2c8e90e632951ea60bee92bad54ff",
+        "hash": "721665816",
+        "path": "outstatic/content/feed-items/rocks.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/173014631?v=4"
+      },
+      "collection": "feed-items",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-21T17:30:59.471Z",
+      "slug": "rocks",
+      "status": "published",
+      "title": "rocks"
     }
   ]
 }
