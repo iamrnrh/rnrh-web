@@ -11,6 +11,5 @@ disciplines: 'Design, Code, asdfdf'
 publishedAt: '2024-06-20T19:56:17.778Z'
 ---
 
-![](/images/aphanos-Y0OD.jpg)
-
-![](/images/aphanos-Q2OT.svg)
+![](/images/aphanos-g3OT.svg)\
+![](/images/aphanos-M0ND.jpg)

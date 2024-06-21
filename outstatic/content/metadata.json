@@ -1,11 +1,11 @@
 {
-  "commit": "e673cccba5d877ccca48ae7a4f5d9d95c5470c10",
-  "generated": "2024-06-21T03:22:24.286Z",
+  "commit": "f025f822831f7dc0c79c3bbe2269c6fb4e42febe",
+  "generated": "2024-06-21T03:25:12.811Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "e673cccba5d877ccca48ae7a4f5d9d95c5470c10",
-        "hash": "2824733407",
+        "commit": "f025f822831f7dc0c79c3bbe2269c6fb4e42febe",
+        "hash": "1529824839",
         "path": "outstatic/content/featured-works/aphanos.md"
       },
       "author": {
