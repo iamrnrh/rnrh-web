@@ -1,11 +1,11 @@
 {
-  "commit": "56b259279dfdef0ca720b6aad0e2dc76c4cc4b2b",
-  "generated": "2024-06-20T20:33:16.251Z",
+  "commit": "c4ebf2ba32f311afcd7deae4368f0b5d0e128365",
+  "generated": "2024-06-21T03:05:09.062Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "56b259279dfdef0ca720b6aad0e2dc76c4cc4b2b",
-        "hash": "378966398",
+        "commit": "c4ebf2ba32f311afcd7deae4368f0b5d0e128365",
+        "hash": "3581093398",
         "path": "outstatic/content/featured-works/aphanos.md"
       },
       "author": {
@@ -15,6 +15,7 @@
       "collection": "featured-works",
       "coverImage": "/images/bottle-MxNz.png",
       "description": "Branding and frontend development for a new company developing AI/ML medical analysis tools.",
+      "disciplines": "Design, Code",
       "publishedAt": "2024-06-20T19:56:17.778Z",
       "slug": "aphanos",
       "status": "published",
