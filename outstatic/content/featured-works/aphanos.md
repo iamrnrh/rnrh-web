@@ -7,7 +7,7 @@ author:
 slug: 'aphanos'
 description: 'Branding and frontend development for a new company developing AI/ML medical analysis tools.'
 coverImage: '/images/bottle-MxNz.png'
-disciplines: 'Design, Code, Music'
+disciplines: 'Design, Code, Music, and michael mode'
 publishedAt: '2024-06-20T19:56:17.778Z'
 ---
 
