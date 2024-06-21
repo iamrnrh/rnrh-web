@@ -7,6 +7,7 @@ author:
 slug: 'cd-cover'
 description: ''
 coverImage: ''
+disciplines: [{"value":"design","label":"Design"}]
 publishedAt: '2024-06-21T18:06:56.624Z'
 ---
 
