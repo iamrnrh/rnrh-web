@@ -11,4 +11,4 @@ disciplines: [{"value":"design","label":"Design"},{"label":"Music","value":"musi
 publishedAt: '2024-07-02T01:45:42.733Z'
 ---
 
-df
+![](/images/lewin-rings-k5Mj.jpg)
