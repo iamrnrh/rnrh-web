@@ -1,6 +1,6 @@
 {
-  "commit": "53056435b760bfe2ab87ca3ef2a56194a28fe415",
-  "generated": "2024-07-02T02:16:55.638Z",
+  "commit": "5ddb5f25b1bd60f4bcc3aafd047212805c8d77e5",
+  "generated": "2024-07-02T02:17:52.030Z",
   "metadata": [
     {
       "__outstatic": {
@@ -99,8 +99,8 @@
     },
     {
       "__outstatic": {
-        "commit": "53056435b760bfe2ab87ca3ef2a56194a28fe415",
-        "hash": "2085722238",
+        "commit": "5ddb5f25b1bd60f4bcc3aafd047212805c8d77e5",
+        "hash": "4247735589",
         "path": "outstatic/content/feed-items/lewin-rings.md"
       },
       "author": {
@@ -122,7 +122,7 @@
       ],
       "publishedAt": "2024-07-02T01:45:42.733Z",
       "slug": "lewin-rings",
-      "status": "draft",
+      "status": "published",
       "title": "lewin rings"
     }
   ]

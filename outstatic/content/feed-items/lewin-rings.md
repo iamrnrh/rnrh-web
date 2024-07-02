@@ -1,6 +1,6 @@
 ---
 title: 'lewin rings'
-status: 'draft'
+status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/173014631?v=4'
@@ -11,4 +11,5 @@ disciplines: [{"value":"design","label":"Design"},{"label":"Music","value":"musi
 publishedAt: '2024-07-02T01:45:42.733Z'
 ---
 
-![](/images/lewin-rings-k5Mj.jpg)
+![](/images/lewin-rings-k5Mj.jpg)\
+![](/images/lewin-klavierstuck-M4NT.jpeg)
