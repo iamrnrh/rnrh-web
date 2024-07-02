@@ -20,6 +20,10 @@
         {
           "value": "glitch",
           "label": "Glitch"
+        },
+        {
+          "value": "music",
+          "label": "Music"
         }
       ]
     }
