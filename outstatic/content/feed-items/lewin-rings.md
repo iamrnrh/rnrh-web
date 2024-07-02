@@ -12,4 +12,4 @@ publishedAt: '2024-07-02T01:45:42.733Z'
 ---
 
 ![](/images/lewin-rings-k5Mj.jpg)\
-![](/images/lewin-klavierstuck-M4NT.jpeg)
+![](/images/lewin-klavierstuck-I3Mj.jpeg)

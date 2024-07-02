@@ -1,6 +1,6 @@
 {
   "commit": "5ddb5f25b1bd60f4bcc3aafd047212805c8d77e5",
-  "generated": "2024-07-02T02:17:52.030Z",
+  "generated": "2024-07-02T02:19:23.716Z",
   "metadata": [
     {
       "__outstatic": {
@@ -100,7 +100,7 @@
     {
       "__outstatic": {
         "commit": "5ddb5f25b1bd60f4bcc3aafd047212805c8d77e5",
-        "hash": "4247735589",
+        "hash": "2435478760",
         "path": "outstatic/content/feed-items/lewin-rings.md"
       },
       "author": {
